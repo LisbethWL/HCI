@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_measure"
+        android:icon="@drawable/ic_straighten_black_24dp"
+        android:title="Mål"
+        />
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_globus_rund_small"
+        android:title="Hjem"
+        />
+
+    <item
+        android:id="@+id/nav_wiki"
+        android:icon="@drawable/ic_filter_vintage_black_24dp"
+        android:title="WikiFisk"
+        />
+</menu>
